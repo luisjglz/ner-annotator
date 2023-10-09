@@ -1,5 +1,5 @@
 # NER Annotator for Spacy
-
+--
 NER Annotator for SpaCy allows you to create training data for creating a custom NER Model with custom tags.
 
 - Web Application: [https://tecoholic.github.io/ner-annotator/](https://tecoholic.github.io/ner-annotator/)
